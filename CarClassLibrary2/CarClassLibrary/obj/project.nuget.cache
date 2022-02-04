@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kKLg6biVgq1iVz8G0CD4R5Iq0qG8/jX+EUzoW/x0YOWdMbmH/Pes4NERybjX9b8Al9BYyg+3moCgXmr3Ob9s3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\niloo\\source\\repos\\CarClassLibrary2\\CarClassLibrary\\CarClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\niloo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\niloo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
